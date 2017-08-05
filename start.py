@@ -16,8 +16,8 @@ class Stock:
 		self.sector = sector
 		self.industry = industry
 
-account = "AC75b0087dabc02d842e690f0d33af1072"
-token = "ecaf1b7bfc6304315431bc2917c49861"
+account = "XXX"
+token = "XXX"
 client = Client(account, token)
 
 ##yahoo = Share('GOOGL')
