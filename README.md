@@ -23,7 +23,7 @@ https://github.com/hongtaocai/googlefinance
 All samples are covered by the MIT license. Feel free to reuse the source code in your projects.
 
 ```
-Copyright (c) 2017 Jia Qiang Ma, 23.47 Investment Group and Contributors
+Copyright (c) 2017 Jia Qiang Ma, 123.47 Investment Group and Contributors
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
