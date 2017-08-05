@@ -25,7 +25,7 @@ client = Client(account, token)
 ##print json.dumps(yahoo.get_year_low(), indent=2)
 print("\n\n") 
 print( "**************************************")
-print("     	Ivy, I Love You! 			")
+print(" * App Starting * 			")
 print("**************************************")
 print("\n\n")
 
@@ -51,7 +51,7 @@ for s in stockArray:
 
 		if float(todaysPrice) <= float(yearLow):
 			print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
-			body = "Ivy, " + s.symbol + " (" + s.name + ") " +" is now at 52 weeks low!! \n Today's price is at $" + todaysPrice + "; 52 weeks low was $" + yearLow + "\n Love you! \n Jia Ma"
+			body =  s.symbol + " (" + s.name + ") " +" is now at 52 weeks low!! \n Today's price is at $" + todaysPrice + "; 52 weeks low was $" + yearLow "
 			message = client.messages.create(to="+14152793685", from_="+15109015113", body=body)
 			
 			print(body)
