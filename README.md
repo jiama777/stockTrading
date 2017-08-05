@@ -1,9 +1,10 @@
-# StockTrading - 123.47 Investment Group
+﻿# StockTrading - 123.47 Investment Group
 
 
 ## Requirements
 
 * Python 2.7.x
+* Pandas 0.20.x
 
 ## To Install
 Install python packages in reference repos below
