@@ -1,4 +1,4 @@
-# StockTrading - Investment 123.47 Group
+# StockTrading - 123.47 Investment Group
 
 
 ## Requirements
